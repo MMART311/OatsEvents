@@ -1,2 +1,0 @@
-# OatsEvents
-Created with CodeSandbox
